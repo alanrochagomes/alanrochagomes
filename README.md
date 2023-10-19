@@ -8,6 +8,8 @@
 
 ![Alan Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrochagomes&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrochagomes)](https://github.com/alanrochagomes/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
