@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Alan Rocha 🙋🏻‍♂️
 
-[![Portfolio](https://img.shields.io/website?label=alanrocha.vercel.app&style=for-the-badge&url=https://https://alanrocha.vercel.app/)](https://alanrocha.vercel.app/)
+[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://https://alanrocha.vercel.app/)](https://alanrocha.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/alan-rocha-080255245/)](https://www.linkedin.com/in/alan-rocha-080255245/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&url=https://www.instagram.com/alanr0ck/)](https://www.instagram.com/alanr0ck/)
-[![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&url=https://api.whatsapp.com/send/?phone=5521998579960&text&type=phone_number&app_absent=0=Ol%C3%A1,%20gostaria%20de%20informa%C3%A7%C3%B5es!)](https://api.whatsapp.com/send/?phone=5521998579960&text&type=phone_number&app_absent=0=Ol%C3%A1,%20gostaria%20de%20informa%C3%A7%C3%B5es!)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&url=https://api.whatsapp.com/send/?phone=5521998579960&text&type=phone_number&app_absent=0=Ol%C3%A1,%20gostaria%20de%20informa%C3%A7%C3%B5es!)](https://api.whatsapp.com/send/?phone=5521998579960&text&type=phone_number&app_absent=0=Ol%C3%A1,%20gostaria%20de%20informa%C3%A7%C3%B5es!)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&url=https://www.youtube.com/channel/UCzvex13BuZ9_TnDxaFYKiTQ)](https://www.youtube.com/channel/UCzvex13BuZ9_TnDxaFYKiTQ)
 
 ![Alan Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrochagomes&show_icons=true&theme=radical)
