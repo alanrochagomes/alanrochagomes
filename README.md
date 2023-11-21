@@ -1,26 +1,36 @@
-### Olá! Eu sou o Alan Rocha 🙋🏻‍♂️
+## Hello, there ✌
 
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://https://alanrocha.vercel.app/)](https://alanrocha.vercel.app/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/alan-rocha-080255245/)](https://www.linkedin.com/in/alan-rocha-080255245/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&url=https://www.instagram.com/alanr0ck/)](https://www.instagram.com/alanr0ck/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&url=https://api.whatsapp.com/send/?phone=5521998579960&text&type=phone_number&app_absent=0=Ol%C3%A1,%20gostaria%20de%20informa%C3%A7%C3%B5es!)](https://api.whatsapp.com/send/?phone=5521998579960&text&type=phone_number&app_absent=0=Ol%C3%A1,%20gostaria%20de%20informa%C3%A7%C3%B5es!)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&url=https://www.youtube.com/channel/UCzvex13BuZ9_TnDxaFYKiTQ)](https://www.youtube.com/channel/UCzvex13BuZ9_TnDxaFYKiTQ)
+My name is Alan and I am a Web Developer Front-End Developer from Itaguaí, Rio de Janeiro. I like coding and my goal is to create amazing websites and apps that solve real-world problems while looking beautiful on all devices.
 
-![Alan Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=alanrochagomes&show_icons=true&theme=radical)
+<!-- I'm currently open for new projects so you can reach me trough [WhatsApp](https://wa.me/5521998579960), [Telegram](https://t.me/alanr0ck) or [email](mailto:alanrocha@mail.com) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrochagomes)](https://github.com/alanrochagomes/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia
+<a href="#">
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+</a>
 
-<div style="display: inline_block"><br/>
-   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-   <img align="center" alt="html5" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+### Here's some of the stuff I like to use
+
+
+In the front-end
+
+![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
+
+
+In the back-end:
+
+![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+
+<!-- And in general:
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&labelColor=5C5543&logo=gimp&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
+ -->
+
+<hr>
