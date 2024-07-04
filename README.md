@@ -65,7 +65,10 @@
 <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
 
 </td>
+
+<tr>
 <td align="center" valign="top">
+  
 ### Backend
 
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
@@ -122,6 +125,11 @@
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 
 </td>
+
+</tr>
+
+<tr>
+  
 <td align="center" valign="top">
 
 ### Database
