@@ -65,7 +65,7 @@
 <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
 
 </td>
-<td align="center" width="36%" valign="top">
+<td align="center" valign="top">
 ### Backend
 
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
@@ -106,7 +106,6 @@
 <img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
 <img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
 
 </td>
@@ -119,8 +118,8 @@
 ### Backend
 
 <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
+<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -143,10 +142,6 @@
 <img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" />
 
 </td>
-</tr>
-
-<tr>
-
 </tr>
 
 <tr>
