@@ -65,9 +65,7 @@
 <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
 
 </td>
-
-<tr>
-<td align="center" valign="top">
+<td align="center" width="36%" valign="top">
   
 ### Backend
 
