@@ -34,7 +34,7 @@
 <details>
 <summary><small>PT-BR</small></summary>
 
-👨🏻‍🏫 Estudante e desenvolvedor, comecei a programar copiar e colar código aos ~19 anos.
+👨🏻‍🏫 Estudante e desenvolvedor, comecei a ~~programar~~ copiar e colar código aos ~19 anos.
 
 🧑🏻‍💻 Iniciei o curso de programação em 2022, aos 21 anos. Comecei a fazer freelancer aos 22 anos e continuei meus estudos em programação, criando projetos aos 23 anos.
 
@@ -141,7 +141,6 @@
 </tr>
 
 <tr>
-
 <td align="center" valign="top">
 
 ### Cloud & DevOps
