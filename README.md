@@ -63,6 +63,7 @@
 <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
 
 </td>
+
 <td align="center" width="36%" valign="top">
   
 ### Backend
@@ -73,6 +74,7 @@
 </td>
 </tr>
 
+</br>
 <tr>
 <td align="center" valign="top">
 
@@ -83,6 +85,7 @@
 
 </td>
 
+</br>
 <td align="center" valign="top">
 
 ### Cloud & DevOps
