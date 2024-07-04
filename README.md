@@ -147,6 +147,7 @@
 ### Mobile
 
 <img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
+<img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -166,9 +167,7 @@
 
 ### Hardware
 
-<img style="margin: 10px" src="assets/arduino.svg" alt="Arduino" title="Arduino" height="50" />
-<img style="margin: 10px" src="assets/cplusplus.svg" alt="C++" title="C++" height="50" />
-<img style="margin: 10px" src="assets/raspberry-pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="50" />
+<img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -190,7 +189,6 @@
 <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
 <img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
 <img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
-<img style="margin: 10px" src="assets/jetbrains-intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -207,6 +205,8 @@
 <img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
 <img style="margin: 10px" src="assets/sass.svg" alt="Sass" title="Sass" height="50" />
 <img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
+<img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
+<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
 <img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
 <img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
 <img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
