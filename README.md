@@ -74,7 +74,6 @@
 </td>
 </tr>
 
-</br>
 <tr>
 <td align="center" valign="top">
 
@@ -111,8 +110,9 @@
 <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
 
 </td>
-
 </tr>
+
+</br>
 
 <tr>
 <td align="center" valign="top">
@@ -126,6 +126,8 @@
 </td>
 
 </tr>
+
+</br>
 
 <tr>
   
