@@ -19,7 +19,7 @@
 <details open>
 <summary><small>EN-US</small></summary>
 
-👨🏻‍🏫 Student and developer, I started programming by copying and pasting code at around 19 years old.
+👨🏻‍🏫 Student and developer, I started programming by copying and pasting code at around ~19 years old.
 
 🧑🏻‍💻 I began my programming course in 2022 at 21 years old. I started freelancing at 22 and continued my programming studies, creating projects at 23.
 
