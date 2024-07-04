@@ -79,7 +79,6 @@
 
 ### Database
 
-<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
 <img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
 
 </td>
