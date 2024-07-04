@@ -68,8 +68,8 @@
   
 ### Backend
 
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
+<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 
 </td>
 </tr>
@@ -95,6 +95,7 @@
 </tr>
 </table>
 
+
 <details>
 <summary><small>Technology Stack (full list)</small></summary>
 <table>
@@ -107,12 +108,18 @@
 <img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
 <img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
+<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 <img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
 
 </td>
-</tr>
+<td align="center" valign="top">
 
-</br>
+### Games
+
+<img style="margin: 10px" src="assets/unity.svg" alt="Unity" title="Unity" height="50" /> 
+
+</td>
+</tr>
 
 <tr>
 <td align="center" valign="top">
@@ -120,17 +127,10 @@
 ### Backend
 
 <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
-<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
+<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
 
 </td>
-
-</tr>
-
-</br>
-
-<tr>
-  
 <td align="center" valign="top">
 
 ### Database
@@ -139,13 +139,43 @@
 <img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
 
 </td>
+</tr>
 
+<tr>
+<td align="center" valign="top">
+
+### Mobile
+
+<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
+
+</td>
 <td align="center" valign="top">
 
 ### Cloud & DevOps
 
 <img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
 <img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" />
+<img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
+<img style="margin: 10px" src="assets/aws-s3.svg" alt="AWS S3" title="AWS S3" height="50" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top">
+
+### Hardware
+
+<img style="margin: 10px" src="assets/arduino.svg" alt="Arduino" title="Arduino" height="50" />
+<img style="margin: 10px" src="assets/cplusplus.svg" alt="C++" title="C++" height="50" />
+<img style="margin: 10px" src="assets/raspberry-pi.svg" alt="Raspberry Pi" title="Raspberry Pi" height="50" />
+
+</td>
+<td align="center" valign="top">
+
+### AI
+
+<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 
 </td>
 </tr>
@@ -159,10 +189,10 @@
 <img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
 <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
 <img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
+<img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
+<img style="margin: 10px" src="assets/jetbrains-intellij-idea.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" height="50" />
 
 </td>
-
-<br/>
 <td align="center" valign="top">
 
 ### Started with
@@ -177,10 +207,10 @@
 <img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
 <img style="margin: 10px" src="assets/sass.svg" alt="Sass" title="Sass" height="50" />
 <img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
-<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
 <img style="margin: 10px" src="assets/java.svg" alt="Java" title="Java" height="50" />
-<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
+<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
+<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 
 </td>
 </tr>
