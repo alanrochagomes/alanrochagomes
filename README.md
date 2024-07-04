@@ -152,12 +152,12 @@
 
 <img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
 <img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
-<img style="margin: 10px" src="assets/jetbrains-webstorm.svg" alt="WebStorm" title="WebStorm" height="50" />
 <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
-<img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
 <img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
 
 </td>
+
+<br/>
 <td align="center" valign="top">
 
 ### Started with
