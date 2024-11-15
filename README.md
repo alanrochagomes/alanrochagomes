@@ -55,152 +55,13 @@
 <table>
 
 <tr>
-<td align="center" width="36%" valign="top">
 
-### Frontend
 
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
 
-</td>
-
-<td align="center" width="36%" valign="top">
-  
-### Backend
-
-<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
-<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
-
-</td>
-</tr>
-
-<tr>
 <td align="center" valign="top">
-
-### Database
-
-<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
-
-</td>
-
-</br>
-<td align="center" valign="top">
-
-### Cloud & DevOps
-
-<img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
-
-</td>
-</tr>
-</table>
-
-
-<details>
-<summary><small>Technology Stack (full list)</small></summary>
-<table>
-
-<tr>
-<td align="center" width="50%" valign="top">
-
-### Frontend
-
-<img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
-<img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
-<img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
-
-</td>
-<td align="center" valign="top">
-
-### Games
-
-<img style="margin: 10px" src="assets/unity.svg" alt="Unity" title="Unity" height="50" /> 
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
-
-### Backend
-
-<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
-
-</td>
-<td align="center" valign="top">
-
-### Database
-
-<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
-<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
-
-### Mobile
-
-<img style="margin: 10px" src="assets/kotlin.svg" alt="Kotlin" title="Kotlin" height="50" />
-<img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
-
-</td>
-<td align="center" valign="top">
-
-### Cloud & DevOps
-
-<img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
-<img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" />
-<img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
-<img style="margin: 10px" src="assets/aws-s3.svg" alt="AWS S3" title="AWS S3" height="50" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
-
-### Hardware
-
-<img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
-
-</td>
-<td align="center" valign="top">
-
-### AI
-
-<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" valign="top">
-
-### Tools & IDEs
-
-<img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
-<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
-<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
-<img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
-<img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
-
-</td>
-<td align="center" valign="top">
-
-### Started with
-
-<img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
-<img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 
 ### Want to learn
 
-<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
 <img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
 <img style="margin: 10px" src="assets/sass.svg" alt="Sass" title="Sass" height="50" />
 <img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
@@ -212,10 +73,76 @@
 
 
 </td>
+
+  
+<td align="center" width="36%" valign="top">
+
+### Frontend/Backend
+
+<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
+<img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
+<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
+<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
+<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
+
+</td>
+
+<td align="center" width="36%" valign="top">
+  
+
+### Tools & IDEs
+
+<img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
+<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
+<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
+<img style="margin: 10px" src="assets/visual-studio.svg" alt="Visual Studio" title="Visual Studio" height="50" />
+<img style="margin: 10px" src="assets/android-studio.svg" alt="Android Studio" title="Android Studio" height="50" />
+
+</td>
+
+
+
+</td>
 </tr>
 
+<tr>
+<td align="center" valign="top">
+
+### Database
+
+<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
+<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
+
+</td>
+
+</br>
+<td align="center" valign="top">
+
+### Cloud & DevOps
+
+<img style="margin: 10px" src="assets/aws.svg" alt="AWS" title="AWS" height="50" />
+<img style="margin: 10px" src="assets/git.svg" alt="Git" title="Git" height="50" />
+<img style="margin: 10px" src="assets/linux.svg" alt="Linux" title="Linux" height="50" />
+<img style="margin: 10px" src="assets/aws-s3.svg" alt="AWS S3" title="AWS S3" height="50" />
+
+</td>
+
+<td align="center" valign="top">
+
+### Started with
+
+<img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
+<img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
+<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
+
+
+
+</td>
+</tr>
 </table>
-</details>
+
+
+
 
 <br/>
 
