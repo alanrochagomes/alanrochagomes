@@ -27,7 +27,7 @@
 🎮 In 2015, I created a gaming channel [theNettko](https://www.youtube.com/@Nettko) on YouTube called theNettko, about games.
 🔮 Currently, I am looking to gain even more knowledge and new experiences in the programming world. My dream is to get a job in the field. -->
 
-I am a student and developer passionate about technology and innovation, with a journey that began with the fundamentals of web development: **HTML**, **CSS** and **JavaScript**. Later, I delved into the world of **React**, **React Native** and **TypeScript**, consolidating my skills in creating modern and dynamic interfaces.
+I am a student and developer passionate about technology and innovation, with a journey that began with the fundamentals of web development: **HTML**, **CSS** and **JavaScript**. Later, I delved into the world of **React**, **React Native**, **Next** and **TypeScript**, consolidating my skills in creating modern and dynamic interfaces.
 
 I am very interested in exploring new technologies, such as **Angular**, **Java**, **Kotlin** and **Python**, and I continually seek to improve myself, especially in **backend** development, to become a complete full stack developer.
 
@@ -51,7 +51,7 @@ Currently, I am looking not only to improve my **frontend** development skills, 
 
 ### Desenvolvedor Frontend/Full Stack
 
-Sou um estudante e desenvolvedor apaixonado por tecnologia e inovação, com uma jornada que começou com os fundamentos do desenvolvimento web: **HTML**, **CSS** e **JavaScript**. Posteriormente, mergulhei no universo do **React**, **React Native** e do **TypeScript**, consolidando minhas habilidades em criação de interfaces modernas e dinâmicas.  
+Sou um estudante e desenvolvedor apaixonado por tecnologia e inovação, com uma jornada que começou com os fundamentos do desenvolvimento web: **HTML**, **CSS** e **JavaScript**. Posteriormente, mergulhei no universo do **React**, **React Native**, **Next** e **TypeScript**, consolidando minhas habilidades em criação de interfaces modernas e dinâmicas.  
 
 Tenho grande interesse em explorar novas tecnologias, como **Angular**, **Java**, **Kotlin** e **Python**, e busco continuamente me aprimorar, especialmente no desenvolvimento **backend**, para me tornar um desenvolvedor full stack completo.  
 
